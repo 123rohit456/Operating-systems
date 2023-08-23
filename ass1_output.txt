@@ -1,0 +1,66 @@
+Addition program output :
+
+$ sh abc.sh
+Enter two numbers
+1 2 
+addition=3
+
+Prime output ; 
+
+$ sh prime.sh 
+Enter a number :
+7
+It is a prime number
+
+$ sh prime.sh 
+Enter a number :
+7
+It is a prime number
+
+Student Database output : 
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=1
+Enter file name :stud1
+File Created Succesfully
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=3
+Enter the file name:stud1
+Enter the roll number:1           
+Enter name:rohit 
+Record inserted successfully
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=3
+Enter the file name:stud1
+Enter the roll number:2
+Enter name:harsh
+Record inserted successfully
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=2
+Enter file name:xyz  
+The content of file : 
+1 rohit
+2 harsh
+3 shivang
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=4 
+Enter the file name : xyz
+Enter the roll number : 1
+1 rohit
+Record found 
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=5
+Enter the file name:xyz
+Enter the roll number:1
+1 rohit
+Enter NewRoll and NewName l4 dipali
+Record successfully modified
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=6
+Enter the file name :xyz
+Enter the roll number4
+4 dipali
+Record successfully deleted
+1.Create 2.Display 3.Insert 4.Search 5.Modify 6.Delete 7.EXIT
+Enter choice=7
+
+
